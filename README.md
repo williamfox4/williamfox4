@@ -1,5 +1,10 @@
 ### Hi there 👋
+ - 😄 I'm @williamfox4
 
+- 🏴󠁧󠁢󠁷󠁬󠁳󠁿 I'm a front-end developer from North Wales, UK.
+- 📫 You can contact me [here](mailto:hello@williamfox.net), you can also find me on [StackOverflow](https://stackoverflow.com/users/2394259/wf4)
+- 💻 I enjoy working with HTML, CSS & JavaScript (Expert - 92nd percentile on Pluralsight), as well as Illustration & 3d modeling.
+- 🥋 Currently 4th Kup in ITF Taekwondo, since 2020.
 <!--
 **williamfox4/williamfox4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
